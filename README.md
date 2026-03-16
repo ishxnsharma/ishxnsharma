@@ -1,25 +1,29 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Ishan%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Ishan%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Engineer;Full+Stack+Developer;Building+Intelligent+Products;Next.js+%7C+AI+Systems+%7C+Machine+Learning"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+AI-powered+products;Full-stack+systems+engineer;Machine+learning+enthusiast;Next.js+%7C+AI+%7C+Backend+Architecture"/>
 </p>
 
 ---
 
-# 👋 Hi, I'm Ishan Sharma
+## About Me
 
-🎓 **B.Tech Computer Science — SRM IST Ghaziabad (2023-2027)**  
-📊 **CGPA: 8.05 / 10**
+I’m a **Computer Science undergraduate at SRM IST Ghaziabad** focused on building **AI-driven applications and scalable full-stack systems**.
 
-I build **AI-powered products and full-stack applications** with a focus on real-world impact, scalable systems, and intelligent user experiences.
+My interests lie at the intersection of:
+
+- Artificial Intelligence
+- Product Engineering
+- Scalable Backend Systems
+- Recommendation Systems
+
+I enjoy turning **complex ideas into real-world products used by people.**
 
 ---
 
-# 🧠 Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -29,85 +33,101 @@ I build **AI-powered products and full-stack applications** with a focus on real
 
 ---
 
-# 🚀 Featured Projects
+## Selected Projects
 
-### 🛒 AI-Powered E-Commerce Platform
+### AI Commerce Platform
 
-**Stack:** Next.js 14, TypeScript, Prisma, PostgreSQL, Stripe
+AI-powered e-commerce system with intelligent product discovery.
 
-- AI shopping copilot for product recommendations  
-- Custom product ranking algorithm  
-- Secure Stripe payment system  
-- JWT authentication and session handling  
+**Stack:** Next.js, TypeScript, PostgreSQL, Prisma, Stripe
+
+Key features:
+
+- AI product recommendation engine  
+- Custom ranking algorithm  
+- Secure payment integration  
+- Full-stack architecture using Next.js App Router  
 
 ---
 
-### 💰 AI Financial Intelligence Tracker
+### AI Financial Intelligence Tracker
+
+AI-assisted personal finance dashboard.
 
 **Stack:** React, Node.js, PostgreSQL, Gemini API
 
-- Real-time expense tracking and analytics  
+Capabilities:
+
+- Expense tracking and analytics  
 - AI-generated financial insights  
-- Multi-cloud deployment (Render + Vercel)  
+- Multi-cloud deployment  
 
 ---
 
-### 🌾 Crop Yield Prediction Platform
+### Crop Yield Prediction Platform
 
-**Stack:** Python, Machine Learning
+Machine learning system predicting agricultural yields.
 
-- Predicts crop yields using weather and soil data  
-- End-to-end ML pipeline from preprocessing to prediction  
-- Data visualization for insights  
+**Stack:** Python, ML models
+
+Pipeline includes:
+
+- Data preprocessing  
+- Feature engineering  
+- Model training  
+- Prediction and visualization  
 
 ---
 
-### 🏥 Blockchain Medical Records System
+### Blockchain Medical Records System
+
+Decentralized architecture for secure patient data.
 
 **Stack:** Solidity, Smart Contracts
 
-- Secure decentralized patient data storage  
-- Tamper-resistant blockchain architecture  
+Focus:
+
+- tamper-resistant storage  
+- secure access control  
 
 ---
 
-# 🔬 Research
+## Research
 
-### AI-Driven Fashion Recommendation System
+### AI Fashion Recommendation System
 
-Combines:
+Research project combining:
 
 - Vision Transformers  
-- CNN models  
+- CNN-based modeling  
 - Big Five personality prediction  
 
-**Results**
+Results:
 
-- 68.3% personality prediction accuracy  
-- 42% improvement in recommendation satisfaction  
-- Tested with 500 participants  
+- **68.3% personality prediction accuracy**
+- **42% improvement in recommendation satisfaction**
+- Tested with **500 participants**
 
-*(Paper under review for IEEE publication)*
+*Currently under review for IEEE publication.*
 
 ---
 
-# 🏆 Achievements
+## Achievements
 
-🥇 **National Finalist — IBM 1M1B Sewa Program**
+🏆 **National Finalist — IBM 1M1B Sewa Program**
 
-Built an **AI Anti-Bullying Chatbot**
+Developed an **AI Anti-Bullying Chatbot**
 
-Certifications
+Certifications:
 
 - Applied Artificial Intelligence — IBM SkillsBuild  
 - Machine Learning & Deep Learning  
 - Generative AI Tools  
 - AI Driven Market Analysis  
-- Formal Languages & Automata Theory  
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Activity
 
 <p align="center">
 
@@ -119,35 +139,31 @@ Certifications
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishxnsharma&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishxnsharma&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌱 Currently Learning
+## Currently Learning
 
-- System Design (LLD + HLD)  
-- AI Agents & LLM Applications  
-- Scalable backend architectures  
-- AI-powered SaaS systems  
+- System Design (LLD + HLD)
+- AI Agents & LLM Applications
+- Scalable SaaS Architecture
+- Retrieval & Recommendation Systems
 
 ---
 
-# 🤝 Connect With Me
+## Connect
 
 <p align="center">
 
 <a href="https://linkedin.com/in/ishxnsharma">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:is7456@srmist.edu.in">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ishxnsharma">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -155,11 +171,9 @@ Certifications
 ---
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=ishxnsharma&color=blue"/>
-
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
 </p>
