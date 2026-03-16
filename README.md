@@ -1,170 +1,101 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1020,50:111827,100:1E3A8A&text=ISHAN%20SHARMA&fontSize=48&fontColor=E5F3FF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20System%20Builder&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Ishan%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=700&color=7DD3FC&center=true&vCenter=true&width=900&lines=Designing+intelligent+systems+for+real+users;Full-stack+apps+with+AI+at+the+core;Turning+ideas+into+scalable+products;Currently+building+AI+recommendation+systems" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Engineer;Full+Stack+Developer;Building+Intelligent+Products;Next.js+%7C+AI+Systems+%7C+Machine+Learning"/>
+
 </p>
 
 ---
 
-## init profile --verbose
+# 👋 Hi, I'm Ishan Sharma
 
-```
-Name        : Ishan Sharma
-Role        : AI Engineer / Full Stack Developer
-Education   : B.Tech CSE, SRM IST Ghaziabad (2023–2027)
-CGPA        : 8.05 / 10
-Focus       : AI systems, backend engineering, product development
-Status      : Building, researching, shipping
-```
+🎓 **B.Tech Computer Science — SRM IST Ghaziabad (2023-2027)**  
+📊 **CGPA: 8.05 / 10**
 
-I build **AI-powered systems and full-stack products** that solve real-world problems.
+I build **AI-powered products and full-stack applications** with a focus on real-world impact, scalable systems, and intelligent user experiences.
 
 ---
 
-## map --current
-
-### Building Around
-
-- AI-powered applications  
-- recommendation systems  
-- scalable backend workflows  
-- full-stack product architecture  
-- intelligent user experiences  
-
-### Currently Learning
-
-- system design (LLD + HLD)  
-- AI agents & LLM applications  
-- scalable SaaS architectures  
-- AI-powered backend systems  
-
----
-
-## stack --system
-
-```
-AI / ML
-├─ Python
-├─ Machine Learning
-├─ Deep Learning
-└─ Recommendation Systems
-
-Frontend
-├─ React
-├─ Next.js
-├─ TypeScript
-└─ Tailwind CSS
-
-Backend
-├─ Node.js
-├─ Express
-├─ REST APIs
-└─ Authentication Systems
-
-Data / Infra
-├─ PostgreSQL
-├─ MongoDB
-├─ Prisma
-├─ Git & GitHub
-├─ Vercel
-└─ Linux
-```
+# 🧠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,express,postgres,mongodb,tailwind,git,github,vercel,linux&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,express,postgres,mongodb,tailwind,git,github,vercel,linux&theme=dark"/>
+
 </p>
 
 ---
 
-# projects --highlighted
+# 🚀 Featured Projects
 
-### AI Commerce Platform
+### 🛒 AI-Powered E-Commerce Platform
 
-AI-powered e-commerce platform with a shopping copilot.
+**Stack:** Next.js 14, TypeScript, Prisma, PostgreSQL, Stripe
 
-Stack  
-Next.js • TypeScript • Prisma • PostgreSQL • Stripe
-
-Features
-
-- AI product recommendations  
-- custom ranking algorithm  
-- secure payment system  
-- JWT authentication  
+- AI shopping copilot for product recommendations  
+- Custom product ranking algorithm  
+- Secure Stripe payment system  
+- JWT authentication and session handling  
 
 ---
 
-### AI Financial Intelligence Tracker
+### 💰 AI Financial Intelligence Tracker
 
-Expense tracker that generates AI financial insights.
+**Stack:** React, Node.js, PostgreSQL, Gemini API
 
-Stack  
-React • Node.js • PostgreSQL • Gemini API
-
-Features
-
-- real-time expense analytics  
-- AI financial insights  
-- multi-cloud deployment  
+- Real-time expense tracking and analytics  
+- AI-generated financial insights  
+- Multi-cloud deployment (Render + Vercel)  
 
 ---
 
-### Crop Yield Prediction Platform
+### 🌾 Crop Yield Prediction Platform
 
-Machine learning system predicting agricultural yield.
+**Stack:** Python, Machine Learning
 
-Pipeline
-
-```
-data → preprocessing → ML model → yield prediction → visualization
-```
-
-Helps farmers make **data-driven decisions**.
+- Predicts crop yields using weather and soil data  
+- End-to-end ML pipeline from preprocessing to prediction  
+- Data visualization for insights  
 
 ---
 
-### Blockchain Medical Records System
+### 🏥 Blockchain Medical Records System
 
-Blockchain-based system for secure patient records.
+**Stack:** Solidity, Smart Contracts
 
-Tech
-
-- Solidity  
-- Smart contracts  
-- decentralized architecture  
+- Secure decentralized patient data storage  
+- Tamper-resistant blockchain architecture  
 
 ---
 
-# research --open
+# 🔬 Research
 
-### AI Fashion Recommendation System
+### AI-Driven Fashion Recommendation System
 
-Deep learning recommendation system using:
+Combines:
 
 - Vision Transformers  
 - CNN models  
 - Big Five personality prediction  
 
-Results
+**Results**
 
-```
-68.3% personality prediction accuracy
-42% improvement in recommendation satisfaction
-500 participants tested
-```
+- 68.3% personality prediction accuracy  
+- 42% improvement in recommendation satisfaction  
+- Tested with 500 participants  
 
-Paper currently **under IEEE review**.
+*(Paper under review for IEEE publication)*
 
 ---
 
-# achievements
+# 🏆 Achievements
 
-```
-National Finalist — IBM 1M1B Sewa Program
-Built an AI Anti-Bullying Chatbot
-```
+🥇 **National Finalist — IBM 1M1B Sewa Program**
+
+Built an **AI Anti-Bullying Chatbot**
 
 Certifications
 
@@ -176,13 +107,13 @@ Certifications
 
 ---
 
-# github telemetry
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ishxnsharma&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ishxnsharma&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=ishxnsharma&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=ishxnsharma&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -192,15 +123,18 @@ Certifications
 
 </p>
 
-<p align="center">
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishxnsharma&theme=tokyo-night&hide_border=true"/>
+# 🌱 Currently Learning
 
-</p>
+- System Design (LLD + HLD)  
+- AI Agents & LLM Applications  
+- Scalable backend architectures  
+- AI-powered SaaS systems  
 
 ---
 
-# connect
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -218,10 +152,14 @@ Certifications
 
 </p>
 
+---
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ishxnsharma&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://komarev.com/ghpvc/?username=ishxnsharma&color=blue"/>
+
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1020,50:111827,100:1E3A8A"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
