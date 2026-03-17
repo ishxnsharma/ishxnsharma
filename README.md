@@ -16,7 +16,7 @@ My interests lie at the intersection of:
 
 - Artificial Intelligence
 - Product Engineering
-- Scalable Backend Systems
+- Scalable Backend Systems 
 - Recommendation Systems
 
 I enjoy turning **complex ideas into real-world products used by people.**
